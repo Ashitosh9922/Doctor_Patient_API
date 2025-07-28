@@ -5,10 +5,12 @@ A simple Django REST Framework API for managing doctors, patients, and appointme
 ---
 
 
-##Techstack:
-Language: Python
-Framework: Django + Django REST Framework
-Database: SQLite
+## Tech Stack
+
+- **Language:** Python  
+- **Framework:** Django with Django REST Framework (DRF)  
+- **Database:** SQLite
+
 
 ## API Endpoints
 
